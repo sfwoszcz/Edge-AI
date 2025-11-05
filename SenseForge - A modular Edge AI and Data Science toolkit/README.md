@@ -1,10 +1,8 @@
-Week 1 — Sensor Log Toolkit (v2)
-
 Python (OOP) + C parity + CI + docs.
 
 ---
 
-Project Description — SenseForge
+# Project Description — SenseForge
 
 SenseForge is a modular, open-source toolkit that bridges Embedded Systems, Data Science, and Machine Learning.
 It provides a complete, hands-on framework for developing and testing Edge AI pipelines — from raw sensor data to real-time intelligence.
@@ -28,7 +26,7 @@ development.
 
 ---
 
-##Quickstart (Ubuntu 24.04.3)
+# Quickstart (Ubuntu 24.04.3)
 unzip week1-sensor-toolkit.zip -d ~/dev
 cd ~/dev/week1-sensor-toolkit
 
